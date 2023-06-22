@@ -5,7 +5,6 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './home/navbar/navbar.component';
 import { WelcomeTextComponent } from './home/welcome-text/welcome-text.component';
-import { DashboardFooterComponent } from './dashboard/dashboard-footer/dashboard-footer.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { DashboardNavbarComponent } from './dashboard/dashboard-navbar/dashboard-navbar.component';
 import { DashboardSidebarComponent } from './dashboard/dashboard-sidebar/dashboard-sidebar.component';
@@ -33,7 +32,6 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     WelcomeTextComponent,
     DashboardComponent,
     DashboardNavbarComponent,
-    DashboardFooterComponent,
     DashboardSidebarComponent,
     DashboardContentComponent,
     EditDialogFunctionalitiesComponent,
